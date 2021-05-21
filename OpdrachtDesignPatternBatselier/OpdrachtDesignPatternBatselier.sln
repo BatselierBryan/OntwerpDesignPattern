@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpdrachtDesignPatternBatselier", "OpdrachtDesignPatternBatselier\OpdrachtDesignPatternBatselier.csproj", "{2E27C016-C14A-4446-A346-F714BA36232E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E27C016-C14A-4446-A346-F714BA36232E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E27C016-C14A-4446-A346-F714BA36232E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E27C016-C14A-4446-A346-F714BA36232E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E27C016-C14A-4446-A346-F714BA36232E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC9BB5AF-48EB-4DFC-A0FE-1FA49B0B33E8}
+	EndGlobalSection
+EndGlobal
